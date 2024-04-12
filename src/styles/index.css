@@ -10,3 +10,34 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#header-title{
+    color:white;
+}
+
+.nav-link{
+    color:white !important;
+}
+
+.active{
+    color: gray !important;
+}
+
+.nav-link:hover{
+    color:lightgray !important;
+}
+
+.navbar-toggler-icon{
+    color:white !important;
+}
+
+.navbar-toggler-icon:hover{
+    color:lightgray !important;
+}
+
+.jumbotron-container{
+    background-color: lightgray;
+}
+
+.copyright{
+    color:white;
+}
